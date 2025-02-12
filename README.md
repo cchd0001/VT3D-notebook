@@ -1,11 +1,11 @@
-# test_stereopy_3D_browser
+# VT3D-notebool
 
 ## Installation
 
 **As an under-developing project, no pip or conda installation supports for now.**
 
 ```
-git clone https://github.com/cchd0001/test_stereopy_3D_browser.git  your-local-folder
+git clone https://github.com/cchd0001/VT3D-notebook.git  your-local-folder
 ```
 
 ## dependences
